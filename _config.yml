@@ -4,13 +4,13 @@ title:            Site Title
 locale:           en_US
 logo:
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-url: http://ncsu-libraries.github.io/jekyll-academic
+#url: http://ncsu-libraries.github.io/jekyll-academic
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Renming Qi
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: rmqi@live.com
   disqus-shortname:
   twitter: #username
   facebook: #username
